@@ -1,4 +1,4 @@
-<DOCType HTML>
+<!DOCTYPE HTML>
 <html>
 	<head>
 		<title>Test JS</title>
