@@ -1,0 +1,5 @@
+
+<script>
+	var x = 15;
+	document.write(x);
+</script>
